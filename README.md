@@ -1,4 +1,4 @@
-## Convert-mesh-into-voxel
+## Convert mesh into voxel
 ### Convert mesh data(.stl) into voxel data(.mhd and .zraw)
 
 *Requirements：VTK*
